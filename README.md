@@ -8,4 +8,5 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 
 # Projects 
 
-(https://github.com/EneVyctis/FirstYearProject) XKube, my first year project. 
+## [XKube](https://github.com/EneVyctis/FirstYearProject), my first project. 
+Xkube is a simple game inspired by TicTacToe. We aimed for coding that game, implement an AI to play alone and a multiplayer game mode to play with a friend.
