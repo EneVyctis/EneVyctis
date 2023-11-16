@@ -8,6 +8,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > HTML
 > CSS
 > SQL
+> PHP using symfony framework
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)
 # Projects 
