@@ -18,7 +18,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > ReactJs | Typescript
 
 # Contact
-[Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)
+[Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
 email : roux.basi@gmail.com
 
 # Projects 
