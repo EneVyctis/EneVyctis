@@ -3,14 +3,24 @@
 I'm a software engineering student at Télécom SudParis. Here you can found all of my past or current projects. Feel free to explore.
 
 # Skills
-> Python
-> Java
-> HTML
-> CSS
-> SQL
-> PHP using symfony framework
+
+## Most used
+> Python |
+> Java |
+
+## Bases
+> HTML |
+> CSS |
+> SQL |
+> PHP using symfony framework |
+
+## Currently learning 
+> ReactJs | Typescript
+
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)
+email : roux.basi@gmail.com
+
 # Projects 
 
 ## [XKube](https://github.com/EneVyctis/FirstYearProject), my first project. 
