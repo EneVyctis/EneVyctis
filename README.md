@@ -15,7 +15,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > PHP using symfony framework |
 
 ## Currently learning 
-> ReactJs | Typescript
+> Angular | Typescript
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
