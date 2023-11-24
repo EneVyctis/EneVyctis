@@ -15,7 +15,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > PHP using symfony framework |
 
 ## Currently learning 
-> Angular | Typescript
+> Reactjs | javascript/typescript
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
@@ -25,5 +25,8 @@ email : roux.basi@gmail.com
 
 ## [XKube](https://github.com/EneVyctis/FirstYearProject), my first project. 
 Xkube is a simple game inspired by TicTacToe. We aimed for coding that game, implement an AI to play alone and a multiplayer game mode to play with a friend.
+The multiplayer server is no longer available tho, cause there is no sense of letting a server running with so few players (mostly me and a friend of mine). 
+You can still test it by running the Nodejs server on local. 
+
 ## [Weaponator](https://github.com/EneVyctis/Weaponator), a school project. 
 Weaponator is a unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
