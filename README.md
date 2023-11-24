@@ -29,4 +29,4 @@ The multiplayer server is no longer available tho, cause there is no sense of le
 You can still test it by running the Nodejs server on local. 
 
 ## [Weaponator](https://github.com/EneVyctis/Weaponator), a school project. 
-Weaponator is a unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
+Weaponator is an unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
