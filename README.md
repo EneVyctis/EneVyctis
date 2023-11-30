@@ -17,6 +17,9 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 ## Currently learning 
 > Reactjs | javascript/typescript
 
+> Unity | C# |
+> Unreal Engine5 | C++
+
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
 email : roux.basi@gmail.com
