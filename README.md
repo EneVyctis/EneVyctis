@@ -15,8 +15,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > PHP using symfony framework |
 
 ## Currently learning 
-> Reactjs | javascript/typescript
-
+> Reactjs | javascript/typescript |
 > Unity | C# |
 > Unreal Engine5 | C++
 
