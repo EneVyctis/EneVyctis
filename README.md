@@ -15,7 +15,7 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 > PHP using symfony framework |
 
 ## Currently learning 
-> Reactjs | javascript/typescript
+> Reactjs/Nextjs | javascript/typescript
 
 > Unity | C#
  
@@ -34,3 +34,6 @@ You can still test it by running the Nodejs server on local.
 
 ## [Weaponator](https://github.com/EneVyctis/Weaponator), a school project. 
 Weaponator is an unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
+
+## [ImprovedXKube](https://github.com/EneVyctis/ImprovedXCube), a cleaner, more powerful, more stable version of XKube.
+I want to improve my first ever project and make it available for a moment. The game and server will be code in C# using Unity and ASP.NET
