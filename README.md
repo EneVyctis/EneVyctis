@@ -28,12 +28,15 @@ email : roux.basi@gmail.com
 # Projects 
 
 ## [XKube](https://github.com/EneVyctis/FirstYearProject), my first project. 
-Xkube is a simple game inspired by TicTacToe. We aimed for coding that game, implement an AI to play alone and a multiplayer game mode to play with a friend.
-The multiplayer server is no longer available tho, cause there is no sense of letting a server running with so few players (mostly me and a friend of mine). 
-You can still test it by running the Nodejs server on local. 
+Xkube is a simple game inspired by TicTacToe. We aimed to code that game, implement an AI to play alone and a multiplayer game mode to play with a friend.
+The multiplayer server is no longer available tho, cause there is no sense of letting a server run with so few players (mostly me and a friend of mine). 
+You can still test it by running the Nodejs server locally. 
 
 ## [Weaponator](https://github.com/EneVyctis/Weaponator), a school project. 
 Weaponator is an unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
 
 ## [ImprovedXKube](https://github.com/EneVyctis/ImprovedXCube), a cleaner, more powerful, more stable version of XKube.
-I want to improve my first ever project and make it available for a moment. The game and server will be code in C# using Unity and ASP.NET
+I want to improve my first-ever project and make it available for a moment. The game and server will be coded in C# using Unity and ASP.NET
+
+## [Magic Circus](https://github.com/AdriKat2022/AMJV-CTF).
+Magic Circus is a school project group made to learn Unity.  
