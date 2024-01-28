@@ -7,23 +7,23 @@ I'm a software engineering student at Télécom SudParis. Here you can found all
 ## Most used
 > Python |
 > Java |
+> Unity(C#) |
 
-## Bases
+## Others
 > HTML |
 > CSS |
 > SQL |
 > PHP using symfony framework |
 
 ## Currently learning 
-> Reactjs/Nextjs | javascript/typescript
 
-> Unity | C#
+> Reactjs/Nextjs | javascript/typescript
  
 > Unreal Engine5 | C++
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
-email : roux.basi@gmail.com
+email: roux.basi@gmail.com
 
 # Projects 
 
@@ -33,10 +33,10 @@ The multiplayer server is no longer available tho, cause there is no sense of le
 You can still test it by running the Nodejs server locally. 
 
 ## [Weaponator](https://github.com/EneVyctis/Weaponator), a school project. 
-Weaponator is an unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with symfony. 
+Weaponator is an unfinished project (technically, finished for the school standards) of 25 hours (approx.) to learn php with Symfony. 
 
 ## [ImprovedXKube](https://github.com/EneVyctis/ImprovedXCube), a cleaner, more powerful, more stable version of XKube.
-I want to improve my first-ever project and make it available for a moment. The game and server will be coded in C# using Unity and ASP.NET
+I want to improve my first-ever project and make it available on the Play Store. The game and server will be coded in C# using Unity and ASP.NET
 
 ## [Magic Circus](https://github.com/AdriKat2022/AMJV-CTF).
 Magic Circus is a school project group made to learn Unity.  
