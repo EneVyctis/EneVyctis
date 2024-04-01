@@ -39,4 +39,13 @@ Weaponator is an unfinished project (technically, finished for the school standa
 I want to improve my first-ever project and make it available on the Play Store. The game and server will be coded in C# using Unity and ASP.NET
 
 ## [Magic Circus](https://github.com/AdriKat2022/AMJV-CTF).
-Magic Circus is a school project group made to learn Unity.  
+## Contexte
+This project has been made as a school project for our 2nd year of engeering study at Telecom SudParis. 
+We needed to create, in pair, a "Capture The Flag" game following some GDD restrictions.
+
+
+| Starting Date | End Date |
+| --- | --- |
+|  30 November of 2023 | 25 January of 2024 |
+
+> Total ~**2 months**
