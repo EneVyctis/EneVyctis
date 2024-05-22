@@ -42,9 +42,12 @@ I want to improve my first-ever project and make it available on the Play Store.
 This project has been made as a school project for our 2nd year of engeering study at Telecom SudParis. 
 We needed to create, in pair, a "Capture The Flag" game following some GDD restrictions.
 
-
 | Starting Date | End Date |
 | --- | --- |
 |  30 November of 2023 | 25 January of 2024 |
 
 > Total ~**2 months**
+
+## [Detect](https://github.com/EneVyctis/Detect).
+A few hours school project using C language and the ESP32-S3 micro-controller. This project allows the ESP32 to detects the number of people nearby from their wifi and bluetooth connection. 
+Largely inspired by [ESP Sniffer example](https://github.com/espressif/esp-idf/tree/master/examples/network/simple_sniffer)
