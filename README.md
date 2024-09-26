@@ -2,24 +2,9 @@
 
 I'm a software engineering student at Télécom SudParis. Here you can find all of my past and current projects. Feel free to explore.
 
-# Skills
-
-## Most used
-> Python |
-> Java |
-> Unity(C#) |
-
-## Others
-> HTML |
-> CSS |
-> SQL |
-> PHP using symfony framework |
-
 ## Currently learning 
 
-> Reactjs/Nextjs | javascript/typescript
- 
-> Unreal Engine5 | C++
+> Cybersecurity through challenges
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/basile-roux-23066224b/?originalSubdomain=fr)  
