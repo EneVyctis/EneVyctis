@@ -4,7 +4,7 @@ I'm a software engineering student at Télécom SudParis. Here you can find all 
 
 ## Currently learning 
 
-> Cybersecurity through challenges
+> Java and Golang Back-end Development
 
 # Contact
 [Portfolio](https://enevyctis.github.io)  
