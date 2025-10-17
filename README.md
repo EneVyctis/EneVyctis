@@ -4,7 +4,7 @@ I'm a software engineering student at Télécom SudParis. Here you can find all 
 
 ## Currently learning 
 
-> Java and Golang Back-end Development
+> Fullstack development (Java with Springboot, Golang & ReactJs)
 
 # Contact
 [Portfolio](https://enevyctis.github.io)  
@@ -12,6 +12,10 @@ I'm a software engineering student at Télécom SudParis. Here you can find all 
 email: roux.basi@gmail.com
 
 # Projects 
+
+## [Emulatv](https://github.com/EneVyctis/Emulatv), project to learn FullStack dev & watch services on a TV's Display.
+Emulatv is your usual Tv internet interface, except it runs on a raspberry and has a phone as a remote controller. You can choose from various services (Netflix-Youtube etc...) add your own and runs it.
+This project is a personal project that both covers a use case (I was in need for such system 3 months ago) and a desire to learn fullstack development for web application. 
 
 ## [XKube](https://github.com/EneVyctis/FirstYearProject), my first project. 
 Xkube is a simple game inspired by TicTacToe. We aimed to code that game, implement an AI to play alone and a multiplayer game mode to play with a friend.
