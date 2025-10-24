@@ -1,6 +1,6 @@
 # About me
 
-I'm a software engineering student at Télécom SudParis. Here you can find all of my past and current projects. Feel free to explore.
+I'm a software engineering recently graduated from Télécom SudParis. Here you can find all of my past and current projects. Feel free to explore.
 
 ## Currently learning 
 
