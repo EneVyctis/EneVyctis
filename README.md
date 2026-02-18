@@ -13,6 +13,10 @@ email: roux.basi@gmail.com
 
 # Projects 
 
+## [simple-parser](https://github.com/EneVyctis/simple-parser), a functionnal enough parser that i'll use for other project.
+As i was about to recreate git in java, or a functionnal enough git i would say, i though that i would do everything from scratch, which includes the parsing of command lines, as git is a command line tool.
+simple-parser is born for that purpose, providing a simple yet powerful enough line parser for my usage. It is also cool to think of what is running "under the hood" of command parsers. 
+
 ## [Emulatv](https://github.com/EneVyctis/Emulatv), project to learn FullStack dev & watch services on a TV's Display.
 Emulatv is your usual Tv internet interface, except it runs on a raspberry and has a phone as a remote controller. You can choose from various services (Netflix-Youtube etc...) add your own and runs it.
 This project is a personal project that both covers a use case (I was in need for such system 3 months ago) and a desire to learn fullstack development for web application. 
