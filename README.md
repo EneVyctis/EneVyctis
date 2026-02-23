@@ -13,8 +13,8 @@ email: roux.basi@gmail.com
 
 # Projects 
 
-## [simple-parser](https://github.com/EneVyctis/simple-parser), a functionnal enough parser that i'll use for other project.
-As i was about to recreate git in java, or a functionnal enough git i would say, i though that i would do everything from scratch, which includes the parsing of command lines, as git is a command line tool.
+## [simple-parser](https://github.com/EneVyctis/simple-parser), a sufficiently functional parser that i'll use for other project.
+As i was about to recreate git in java, or a "sufficiently functional" git i would say, i though that i would do everything from scratch, which includes the parsing of command lines, as git is a command line tool.
 simple-parser is born for that purpose, providing a simple yet powerful enough line parser for my usage. It is also cool to think of what is running "under the hood" of command parsers. 
 
 ## [Emulatv](https://github.com/EneVyctis/Emulatv), project to learn FullStack dev & watch services on a TV's Display.
