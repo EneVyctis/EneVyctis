@@ -13,7 +13,10 @@ email: roux.basi@gmail.com
 
 # Projects 
 
-## [simple-parser](https://github.com/EneVyctis/simple-parser), a sufficiently functional parser that i'll use for other project.
+## [ini-parser](https://github.com/EneVyctis/ini-parser), a sufficiently functional ini file parser that i'll use for other projects.
+Resuming my journey to recode git, i've figured that i could use a ini parser since its the format used by git to configure a git project. Since it is a good exercise to code it myself, and because there is no obvious tool for that job (ini4j uses a bit too much dependencies), here it is. As simple-parser, this project is for personal use and entertainment, I do not plan to provide maintenance or guarantee its production ready.
+
+## [simple-parser](https://github.com/EneVyctis/simple-parser), a sufficiently functional command line parser that i'll use for other projects.
 As i was about to recreate git in java, or a "sufficiently functional" git i would say, i though that i would do everything from scratch, which includes the parsing of command lines, as git is a command line tool.
 simple-parser is born for that purpose, providing a simple yet powerful enough line parser for my usage. It is also cool to think of what is running "under the hood" of command parsers. 
 
@@ -45,8 +48,3 @@ We needed to create, in pair, a "Capture The Flag" game following some GDD restr
 ## [Detect](https://github.com/EneVyctis/Detect).
 A few hours school project using C language and the ESP32-S3 micro-controller. This project allows the ESP32 to detects the number of people nearby from their wifi and bluetooth connection. 
 Largely inspired by [ESP Sniffer example](https://github.com/espressif/esp-idf/tree/master/examples/network/simple_sniffer)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enevyctis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enevyctis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
